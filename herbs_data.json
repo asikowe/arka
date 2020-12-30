@@ -2244,7 +2244,7 @@
     "ususzony_jaskier": [
       {
         "action": "zjedz",
-        "effect": "tr"
+        "effect": "tr",
         "dont_bind": true
       },
       {
