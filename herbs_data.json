@@ -1260,7 +1260,7 @@
     "bulawinka": [
       {
         "action": "przezuj",
-        "effect": "<medium_turquoise>+mana -kac<grey>"
+        "effect": "<medium_turquoise>+mana<grey> <medium_orchid><medium_orchid>-kac<grey>"
       },
       {
         "action": "zjedz",
@@ -1902,7 +1902,7 @@
     "pokrzywa": [
       {
         "action": "zjedz",
-        "effect": "-upicie +prg +glod"
+        "effect": "<medium_orchid>-pij<grey> +prg +glod"
       }
     ],
     "potoslin": [
@@ -1935,7 +1935,7 @@
     "przesl": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> -pij"
+        "effect": "<olive_drab>-zmc<grey> <medium_orchid>-pij<grey>"
       }
     ],
     "rabarbar": [
@@ -2132,7 +2132,7 @@
     "tojad": [
       {
         "action": "przezuj",
-        "effect": "-kac odtr"
+        "effect": "<medium_orchid>-kac<grey> odtr"
       },
       {
         "action": "zjedz",
