@@ -1186,7 +1186,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "odtr(gad, ins)"
+        "effect": "odtr(gad,ins)"
       }
     ],
     "bez": [
@@ -1197,7 +1197,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr(zak, pok)"
+        "effect": "odtr(zak,pok)"
       }
     ],
     "bielun": [
@@ -1271,18 +1271,18 @@
     "bylica_cytwarowa": [
       {
         "action": "wetrzyj",
-        "effect": "odtr(zak, pas)"
+        "effect": "odtr(zak,pas)"
       },
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "dont_bind": true
       }
     ],
     "bylica_piolun": [
       {
         "action": "wetrzyj",
-        "effect": "odtr(zak, pas)"
+        "effect": "odtr(zak,pas)"
       },
       {
         "action": "rozgryz",
@@ -1291,7 +1291,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "dont_bind": true
       }
     ],
@@ -1302,7 +1302,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "dont_bind": true
       }
     ],
@@ -1328,7 +1328,7 @@
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "odtr(ins, ros)"
+        "effect": "odtr(ins,ros)"
       },
       {
         "action": "powachaj",
@@ -1336,7 +1336,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+prg<grey>",
+        "effect": "+prg",
         "dont_bind": true
       }
     ],
@@ -1376,7 +1376,7 @@
     "deren": [
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+prg<grey>",
+        "effect": "+prg",
         "dont_bind": true
       },
       {
@@ -1438,7 +1438,7 @@
     "hyzop": [
       {
         "action": "zjedz",
-        "effect": "<medium_turquoise>+mana<grey> <DeepSkyBlue>+glod<grey>"
+        "effect": "<medium_turquoise>+mana<grey> +glod"
       }
     ],
     "jagoda": [
@@ -1451,7 +1451,7 @@
     "janowiec": [
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+prg<grey>",
+        "effect": "+prg",
         "dont_bind": true
       }
     ],
@@ -1515,11 +1515,11 @@
     "kola": [
       {
         "action": "rozgryz",
-        "effect": "<DeepSkyBlue>+glod<grey> +panika"
+        "effect": "+glod +panika"
       },
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "dont_bind": true
       }
     ],
@@ -1543,7 +1543,7 @@
     "konwalia": [
       {
         "action": "powachaj",
-        "effect": "-pan <DeepSkyBlue>+prg<grey>"
+        "effect": "-pan +prg"
       },
       {
         "action": "zjedz",
@@ -1620,7 +1620,7 @@
     "lubczyk": [
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "dont_bind": true
       }
     ],
@@ -1631,7 +1631,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "<DeepSkyBlue>+prg<grey>",
+        "effect": "+prg",
         "dont_bind": true
       }
     ],
@@ -1728,7 +1728,7 @@
     "mieta": [
       {
         "action": "przezuj",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "don_bind": true
       },
       {
@@ -1797,11 +1797,11 @@
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> odtr(ins, ros)"
+        "effect": "<olive_drab>-zmc<grey> odtr(ins,ros)"
       },
       {
         "action": "rozgryz",
-        "effect": "-kon <DeepSkyBlue>+glod<grey>",
+        "effect": "-kon +glod",
         "dont_bind": true
       }
     ],
@@ -1821,7 +1821,7 @@
     "ostrozeczka": [
       {
         "action": "zjedz",
-        "effect": "<DeepSkyBlue>+glod<grey>",
+        "effect": "+glod",
         "dont_bind": true
       }
     ],
@@ -1851,7 +1851,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr(gad, ins, ros)"
+        "effect": "odtr(gad,ins,ros)"
       }
     ],
     "pierscieniak": [
@@ -1871,7 +1871,7 @@
     "plucnica": [
       {
         "action": "sproszkuj",
-        "effect": "odtr"
+        "effect": "odtr(plu)"
       }
     ],
     "podbial": [
@@ -1902,7 +1902,7 @@
     "pokrzywa": [
       {
         "action": "zjedz",
-        "effect": "-upicie <DeepSkyBlue>+prg +glod<grey>"
+        "effect": "-upicie +prg +glod"
       }
     ],
     "potoslin": [
@@ -1954,7 +1954,7 @@
     "rauwolfia": [
       {
         "action": "przezuj",
-        "effect": "odtr(weze)"
+        "effect": "odtr(gad)"
       },
       {
         "action": "zjedz",
@@ -2018,7 +2018,7 @@
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "odtr(gad, ins, ros)"
+        "effect": "odtr(gad,ins,ros)"
       }
     ],
     "skedar": [
@@ -2168,7 +2168,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "odtr <DeepSkyBlue>+glod<grey>"
+        "effect": "odtr +glod"
 
       }
     ],
