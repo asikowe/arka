@@ -1176,7 +1176,7 @@
       },
       {
         "action": "przyloz",
-        "effect": "odtr(pas)"
+        "effect": "odtr(<ansi_yellow>pas<grey>)"
       }
     ],
     "barwinek": [
@@ -1186,7 +1186,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "odtr(gad,ins)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>)"
       }
     ],
     "bez": [
@@ -1271,7 +1271,7 @@
     "bylica_cytwarowa": [
       {
         "action": "wetrzyj",
-        "effect": "odtr(zak,pas)"
+        "effect": "odtr(zak,<ansi_yellow>pas<grey>)"
       },
       {
         "action": "zjedz",
@@ -1282,7 +1282,7 @@
     "bylica_piolun": [
       {
         "action": "wetrzyj",
-        "effect": "odtr(zak,pas)"
+        "effect": "odtr(zak,<ansi_yellow>pas<grey>)"
       },
       {
         "action": "rozgryz",
@@ -1322,13 +1322,13 @@
     "centuria": [
       {
         "action": "zjedz",
-        "effect": "odtr(gad,pok)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,pok)"
       }
     ],
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "odtr(ins,ros)"
+        "effect": "odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
       },
       {
         "action": "powachaj",
@@ -1381,7 +1381,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "drabik": [
@@ -1574,7 +1574,7 @@
     "krzyzownica": [
       {
         "action": "przezuj",
-        "effect": "odtr(gad,zak)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,zak)"
       },
       {
         "action": "zjedz",
@@ -1627,7 +1627,7 @@
     "lukrecja": [
       {
         "action": "przyloz",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       },
       {
         "action": "przezuj",
@@ -1791,13 +1791,13 @@
       },
       {
         "action": "przyloz",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> odtr(ins,ros)"
+        "effect": "<olive_drab>-zmc<grey> odtr(<ansi_yellow>pas<grey>,ros)"
       },
       {
         "action": "rozgryz",
@@ -1851,7 +1851,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr(gad,ins,ros)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
       }
     ],
     "pierscieniak": [
@@ -1929,7 +1929,7 @@
     "przelot": [
       {
         "action": "sproszkuj",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "przesl": [
@@ -1954,7 +1954,7 @@
     "rauwolfia": [
       {
         "action": "przezuj",
-        "effect": "odtr(gad)"
+        "effect": "odtr(<ansi_cyan>gad<grey>)"
       },
       {
         "action": "zjedz",
@@ -1976,7 +1976,7 @@
     "rdest_wezownik": [
       {
         "action": "przezuj",
-        "effect": "odtr(gad)"
+        "effect": "odtr(<ansi_cyan>gad<grey>)"
       }
     ],
     "rojnik": [
@@ -2006,7 +2006,7 @@
       },
       {
         "action": "przyloz",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "serce_kapitana": [
@@ -2018,7 +2018,7 @@
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "odtr(gad,ins,ros)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
       }
     ],
     "skedar": [
@@ -2249,7 +2249,7 @@
       },
       {
         "action": "rozkrusz",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "ususzony_lulek": [
@@ -2261,7 +2261,7 @@
     "ususzony_przelot": [
       {
         "action": "sproszkuj",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "ususzony_ranog": [
@@ -2273,7 +2273,7 @@
     "ususzony_starzec": [
       {
         "action": "sproszkuj",
-        "effect": "odtr(sko)"
+        "effect": "odtr(<PeachPuff>sko<grey>)"
       },
       {
         "action": "zjedz",
@@ -2290,7 +2290,7 @@
     "wrotycz": [
       {
         "action": "przyloz",
-        "effect": "odtr(pas)"
+        "effect": "odtr(<ansi_yellow>pas<grey>)"
       }
     ],
     "ususzona_aralia": [
