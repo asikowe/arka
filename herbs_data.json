@@ -1193,7 +1193,7 @@
     "bez": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       },
       {
@@ -1233,7 +1233,7 @@
     "borowik_krolewski": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1247,14 +1247,14 @@
     "borowik_szlachetny": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
     "borowka": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1316,7 +1316,7 @@
     "cebula": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1329,7 +1329,7 @@
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>,plu)"
+        "effect": "odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
       },
       {
         "action": "powachaj",
@@ -1364,7 +1364,7 @@
     "czosnek": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1425,7 +1425,7 @@
     "grzybien": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1477,7 +1477,7 @@
     "jezyna": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1555,7 +1555,7 @@
     "kozlarz": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1711,7 +1711,7 @@
     "maslak": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1882,14 +1882,14 @@
       },
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
     "podgrzybek": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1916,7 +1916,7 @@
     "poziewnik": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1942,7 +1942,7 @@
     "rabarbar": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -2031,7 +2031,7 @@
     "skrzyp": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -2162,7 +2162,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -2196,7 +2196,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
