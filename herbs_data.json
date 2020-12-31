@@ -1797,7 +1797,7 @@
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> odtr(<ansi_yellow>pas<grey>,ros)"
+        "effect": "<olive_drab>-zmc<grey> odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
       },
       {
         "action": "rozgryz",
