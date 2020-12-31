@@ -1328,7 +1328,7 @@
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
+        "effect": "odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>,plu)"
       },
       {
         "action": "powachaj",
