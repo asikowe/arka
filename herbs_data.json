@@ -1225,8 +1225,8 @@
     ],
     "boldoa": [
       {
-        "action": "zjedz",
-        "effect": "--",
+        "action": "rozkrusz",
+        "effect": "--(ususz na odtr)",
         "dont_bind": true
       }
     ],
@@ -1333,7 +1333,7 @@
       },
       {
         "action": "powachaj",
-        "effect": "odtr"
+        "effect": "odtr(plu)"
       },
       {
         "action": "zjedz",
@@ -2126,7 +2126,7 @@
     "szczwol": [
       {
         "action": "przyloz",
-        "effect": "-zmc"
+        "effect": "<olive_drab>-zmc<grey>"
       },
       {
         "action": "zjedz",
@@ -2194,7 +2194,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "odtr +glod"
+        "effect": "odtr(pok) +glod"
       }
     ],
     "ususzona_konopia": [
