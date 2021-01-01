@@ -1457,6 +1457,10 @@
     ],
     "jaskier": [
       {
+        "action": "rozkrusz",
+        "effect": "--(ususz na odtr)"
+      },
+      {
         "action": "przezuj",
         "effect": "tr",
         "dont_bind": true
@@ -1923,7 +1927,7 @@
     "przelot": [
       {
         "action": "sproszkuj",
-        "effect": "--(ususz zeby dzialal)",
+        "effect": "--(ususz na odtr)",
         "dont_bind": true
       }
     ],
@@ -1982,6 +1986,11 @@
       }
     ],
     "rosiczka": [
+      {
+        "action": "rozkrusz",
+        "effect": "--(ususz na mana)",
+        "dont_bind": true
+      }, 
       {
         "action": "polknij",
         "effect": "--",
@@ -2261,13 +2270,13 @@
     ],
     "ususzony_jaskier": [
       {
+        "action": "rozkrusz",
+        "effect": "odtr(<PeachPuff>sko<grey>)"
+      },
+      {
         "action": "zjedz",
         "effect": "tr",
         "dont_bind": true
-      },
-      {
-        "action": "rozkrusz",
-        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "ususzony_lulek": [
