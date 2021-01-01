@@ -1980,6 +1980,10 @@
     ],
     "rojnik": [
       {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey>"  
+      },
+      {
         "action": "zjedz",
         "effect": "+pij",
         "dont_bind": true
