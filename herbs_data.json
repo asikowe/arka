@@ -1171,13 +1171,13 @@
     ],
     "bagno": [
       {
+        "action": "przyloz",
+        "effect": "odtr(<ansi_yellow>pas<grey>)"
+      },
+      {
         "action": "zjedz",
         "effect": "--",
         "dont_bind": true
-      },
-      {
-        "action": "przyloz",
-        "effect": "odtr(<ansi_yellow>pas<grey>)"
       }
     ],
     "barwinek": [
@@ -1192,13 +1192,13 @@
     ],
     "bez": [
       {
+        "action": "przezuj",
+        "effect": "odtr(zak,pok)"
+      },
+      {
         "action": "zjedz",
         "effect": "--",
         "dont_bind": true
-      },
-      {
-        "action": "przezuj",
-        "effect": "odtr(zak,pok)"
       }
     ],
     "bielun": [
