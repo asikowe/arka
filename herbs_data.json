@@ -1220,7 +1220,7 @@
       },
       {
         "action": "polknij",
-        "effect": "--?"
+        "effect": "<olive_drab>-zmc <grey>"
       }
     ],
     "boldoa": [
@@ -1425,8 +1425,7 @@
     "grzybien": [
       {
         "action": "zjedz",
-        "effect": "--",
-        "dont_bind": true
+        "effect": "-pan"
       }
     ],
     "hubka": [
@@ -1509,7 +1508,7 @@
     "kocimietka": [
       {
         "action": "zjedz",
-        "effect": "jadalna",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1834,12 +1833,6 @@
     ],
     "perelkowiec": [
       {
-        "action": ".",
-        "effect": "--"
-      }
-    ],
-    "ususzony_perelkowiec": [
-      {
         "action": "zjedz",
         "effect": "tr",
         "dont_bind": true
@@ -1930,7 +1923,8 @@
     "przelot": [
       {
         "action": "sproszkuj",
-        "effect": "odtr(<PeachPuff>sko<grey>)"
+        "effect": "--(ususz zeby dzialal)",
+        "dont_bind": true
       }
     ],
     "przesl": [
@@ -2044,6 +2038,11 @@
     ],
     "starzec": [
       {
+        "action": "sproszkuj",
+        "effect": "--(ususz na odtr)",
+        "dont_bind": true
+      },
+      {
         "action": "zjedz",
         "effect": "tr",
         "dont_bind": true
@@ -2074,6 +2073,11 @@
       {
         "action": "rozgryz",
         "effect": "<medium_turquoise>+spo<grey>"
+      },
+      {
+        "action": "powachaj",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "szafran": [
@@ -2166,11 +2170,24 @@
         "dont_bind": true
       }
     ],
+        "ususzona_aralia": [
+      {
+        "action": "polknij",
+        "effect": "+odp"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey> +kac"
+      },
+      {
+        "action": "przezuj",
+        "effect": "+zrc"
+      }
+    ],
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
         "effect": "odtr +glod"
-
       }
     ],
     "ususzona_konopia": [
@@ -2259,6 +2276,13 @@
         "effect": "<medium_turquoise>+int<grey>"
       }
     ],
+    "ususzony_perelkowiec": [
+      {
+        "action": "zjedz",
+        "effect": "tr",
+        "dont_bind": true
+      }
+    ],
     "ususzony_przelot": [
       {
         "action": "sproszkuj",
@@ -2292,20 +2316,6 @@
       {
         "action": "przyloz",
         "effect": "odtr(<ansi_yellow>pas<grey>)"
-      }
-    ],
-    "ususzona_aralia": [
-      {
-        "action": "polknij",
-        "effect": "+odp"
-      },
-      {
-        "action": "zjedz",
-        "effect": "<olive_drab>-zmc<grey> +kac"
-      },
-      {
-        "action": "przezuj",
-        "effect": "+zrc"
       }
     ]
   }
