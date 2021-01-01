@@ -1214,13 +1214,13 @@
     ],
     "bobotrutka": [
       {
+        "action": "polknij",
+        "effect": "<olive_drab>-zmc <grey>"
+      },
+      {
         "action": "zjedz",
         "effect": "tr",
         "dont_bind": true
-      },
-      {
-        "action": "polknij",
-        "effect": "<olive_drab>-zmc <grey>"
       }
     ],
     "boldoa": [
@@ -1406,13 +1406,13 @@
     ],
     "glog": [
       {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
         "action": "przezuj",
         "effect": "--",
         "dont_bind": true
-      },
-      {
-        "action": "zjedz",
-        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "grabiorog": [
@@ -1696,12 +1696,12 @@
     ],
     "mandragora": [
       {
-        "action": "przezuj",
-        "effect": "<medium_turquoise>+int -man<grey>"
-      },
-      {
         "action": "rozgryz",
         "effect": "<medium_turquoise>+man<grey>"
+      },
+      {
+        "action": "przezuj",
+        "effect": "<medium_turquoise>+int -man<grey>"
       }
     ],
     "marzanna": [
@@ -1786,16 +1786,16 @@
     ],
     "nawloc": [
       {
+        "action": "przyloz",
+        "effect": "odtr(<PeachPuff>sko<grey>)"
+      },
+      {
         "action": "rozgryz",
         "effect": "odtr(pok)"
       },
       {
         "action": "zjedz",
         "effect": "odtr(pok)"
-      },
-      {
-        "action": "przyloz",
-        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "nostrzyk": [
@@ -2005,12 +2005,12 @@
     ],
     "rumianek": [
       {
-        "action": "powachaj",
-        "effect": "odtr(pok)"
-      },
-      {
         "action": "przyloz",
         "effect": "odtr(<PeachPuff>sko<grey>)"
+      },
+      {
+        "action": "powachaj",
+        "effect": "odtr(pok)"
       }
     ],
     "serce_kapitana": [
