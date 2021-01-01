@@ -1731,6 +1731,10 @@
     ],
     "mieta": [
       {
+        "action": "powachaj",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
         "action": "przezuj",
         "effect": "+glod",
         "don_bind": true
@@ -1739,10 +1743,6 @@
         "action": "rozetrzyj",
         "effect": "--",
         "don_bind": true
-      },
-      {
-        "action": "powachaj",
-        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "mniszek": [
@@ -2082,11 +2082,6 @@
       {
         "action": "rozgryz",
         "effect": "<medium_turquoise>+spo<grey>"
-      },
-      {
-        "action": "powachaj",
-        "effect": "--",
-        "dont_bind": true
       }
     ],
     "szafran": [
@@ -2126,13 +2121,12 @@
     ],
     "szczwol": [
       {
-        "action": "zjedz",
-        "effect": "tr",
-        "dont_bind": true
+        "action": "przyloz",
+        "effect": "-zmc"
       },
       {
-        "action": "przyloz",
-        "effect": "--",
+        "action": "zjedz",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
