@@ -1647,6 +1647,10 @@
     ],
     "lulek": [
       {
+        "action": "rozgryz",
+        "effect": "--(ususz na int)"
+      },
+      {
         "action": "zjedz",
         "effect": "tr",
         "dont_bind": true
