@@ -1261,7 +1261,7 @@
     "bulawinka": [
       {
         "action": "przezuj",
-        "effect": "<medium_turquoise>+mana<grey> <medium_orchid><medium_orchid>-kac<grey>"
+        "effect": "<medium_turquoise>+mana<grey> <medium_orchid>-kac<grey>"
       },
       {
         "action": "zjedz",
