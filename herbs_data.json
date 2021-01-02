@@ -1671,7 +1671,7 @@
     "mak_lekarski": [
       {
         "action": "powachaj",
-        "effect": "+odp tr"
+        "effect": "tr +odp"
       },
       {
         "action": "zjedz",
