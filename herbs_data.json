@@ -1187,7 +1187,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>,<cornsilk>ins<grey>)"
       }
     ],
     "bez": [
@@ -1329,7 +1329,7 @@
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
+        "effect": "odtr(<MediumSeaGreen>ros<grey>,<cornsilk>ins<grey>)"
       },
       {
         "action": "powachaj",
@@ -1805,7 +1805,7 @@
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> odtr(<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
+        "effect": "<olive_drab>-zmc<grey> odtr(<cornsilk>ins<grey>,<MediumSeaGreen>ros<grey>)"
       },
       {
         "action": "rozgryz",
@@ -1853,7 +1853,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<MediumSeaGreen>ros<grey>,<cornsilk>ins<grey>)"
       }
     ],
     "pierscieniak": [
@@ -2030,7 +2030,7 @@
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "odtr(<ansi_cyan>gad<grey>,<ansi_yellow>pas<grey>,<MediumSeaGreen>ros<grey>)"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<MediumSeaGreen>ros<grey>,<cornsilk>ins<grey>)"
       }
     ],
     "skedar": [
