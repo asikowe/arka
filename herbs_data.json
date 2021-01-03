@@ -2198,7 +2198,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "odtr(pok) +glod"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<thistle>ins<grey>,pok) +glod"
       }
     ],
     "ususzona_konopia": [
