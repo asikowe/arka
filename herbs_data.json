@@ -588,9 +588,9 @@
       "mianownik": "delikatny czerwony grzyb",
       "dopelniacz": "delikatnego czerwona grzyba",
       "biernik": "delikatny czerwony grzyb",
-      "mnoga_mianownik": "delikatne jasne grzyby",
-      "mnoga_dopelniacz": "delikatnych jasnych grzybow",
-      "mnoga_biernik": "delikatne jasne grzyby"
+      "mnoga_mianownik": "delikatne czerwone grzyby",
+      "mnoga_dopelniacz": "delikatnych czerwonych grzybow",
+      "mnoga_biernik": "delikatne czerwone grzyby"
     },
     "muchomor_sromotnikowy": {
       "mianownik": "delikatny jasny grzyb",
@@ -2198,7 +2198,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "odtr(<ansi_cyan>gad<grey>,<thistle>ins<grey>,pok) +glod"
+        "effect": "odtr(<ansi_cyan>gad<grey>,<MediumSeaGreen>ros<grey>,<thistle>ins<grey>,pok) +glod"
       }
     ],
     "ususzona_konopia": [
