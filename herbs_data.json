@@ -226,11 +226,19 @@
     },
     "drath": {
       "mianownik": "soczysty karminowy mech",
-      "dopelniacz": "soczystego karminowego mechu",
+      "dopelniacz": "soczystego karminowego mchu",
       "biernik": "soczysty karminowy mech",
       "mnoga_mianownik": "soczyste karminowe mchy",
       "mnoga_dopelniacz": "soczystych karminowych mchow",
       "mnoga_biernik": "soczyste karminowe mchy"
+    },
+    "dziewanna": {
+      "mianownik": "zolty wielokwiatowy klos",
+      "dopelniacz": "zoltego wielokwiatowego klosu",
+      "biernik": "zolty wielokwiatowy klos",
+      "mnoga_mianownik": "zolte wielokwiatowe klosy",
+      "mnoga_dopelniacz": "zoltych wielokwiatowych klosow",
+      "mnoga_biernik": "zolte wielokwiatowe klosy"
     },
     "dziurawiec": {
       "mianownik": "czterokanciasta rozgaleziona lodyga",
@@ -735,6 +743,14 @@
       "mnoga_mianownik": "kanciaste parzace lodygi",
       "mnoga_dopelniacz": "kanciastych parzacych lodyg",
       "mnoga_biernik": "kanciaste parzace lodygi"
+    },
+    "poslonek": {
+      "mianownik": "cienka kosmata lodyzka",
+      "dopelniacz": "cienkiej kosmatej lodyzki",
+      "biernik": "cienka kosmata lodyzke",
+      "mnoga_mianownik": "cienkie kosmate lodyzki",
+      "mnoga_dopelniacz": "cienkich kosmatych lodyzek",
+      "mnoga_biernik": "cienkie kosmate lodyzki"
     },
     "potoslin": {
       "mianownik": "pierzasty ogonkowy lisc",
@@ -1398,6 +1414,12 @@
         "effect": "+wyt"
       }
     ],
+    "dziewanna": [
+      {
+        "action": "zjedz",
+        "effect": "odtr(pok,plu)"
+      }
+    ],
     "dziurawiec": [
       {
         "action": "rozgryz",
@@ -1905,6 +1927,12 @@
       {
         "action": "zjedz",
         "effect": "<medium_orchid>-pij<grey> +prg +glod"
+      }
+    ],
+    "poslonek": [
+      {
+        "action": "zjedz",
+        "effect": "<LimeGreen>+kon<grey>"
       }
     ],
     "potoslin": [
