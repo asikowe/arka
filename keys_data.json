@@ -1,0 +1,144 @@
+{
+  "key_id_to_odmiana": {
+    "Seth Wissenland": {
+      "mianownik": "duzy ciezki klucz",
+      "dopelniacz": "duzego ciezkiego klucza",
+      "biernik": "duzy ciezki klucz"
+    },
+    "Kultysci Gory Czarne": {
+      "mianownik": "duzy stalowy klucz",
+      "dopelniacz": "duzego stalowego klucza",
+      "biernik": "duzy stalowy klucz"
+    },
+    "Kurhan Nekromanty Tilea": {
+      "mianownik": "lsniacy zelazny klucz",
+      "dopelniacz": "lsniacego zelaznego klucza",
+      "biernik": "lsniacy zelazny klucz"
+    },
+    "Druhii Bretonia": {
+      "mianownik": "kosciany klucz",
+      "dopelniacz": "koscianego klucza",
+      "biernik": "kosciany klucz"
+    },
+    "Zombie ZT Kraina Zgromadzenia": {
+      "mianownik": "mosiezny krasnoludzki klucz ze zdobieniami",
+      "dopelniacz": "mosieznego krasnoludzkiego klucza ze zdobieniami",
+      "biernik": "mosiezny krasnoludzki klucz ze zdobieniami"
+    },
+    "Kasztel Bretonia": {
+      "mianownik": "mosiezny wielki klucz",
+      "dopelniacz": "mosieznego wielkiego klucza",
+      "biernik": "mosiezny wielki klucz"
+    },
+    "Blekitnokrwisci Bretonia": {
+      "mianownik": "nieduzy klucz z herbem",
+      "dopelniacz": "nieduzego klucza z herbem",
+      "biernik": "nieduzy klucz z herbem"
+    },
+    "Kurhan Mumii Tilea": {
+      "mianownik": "niewielka dziesiecioramienna gwiazda z mosiadzu",
+      "dopelniacz": "niewielkiej dziesiecioramiennej gwiazdy z mosiadzu",
+      "biernik": "niewielka dziesiecioramienna gwiazde z mosiadzu"
+    },
+    "Wieza Skavenow Tilea": {
+      "mianownik": "niewielka karteczka",
+      "dopelniacz": "niewielkiej karteczki",
+      "biernik": "niewielka karteczke"
+    },
+    "Demon w Wezendorfie": {
+      "mianownik": "podluzny srebrny kluczyk",
+      "dopelniacz": "podluznego srebrnego kluczyka",
+      "biernik": "podluzny srebrny kluczyk"
+    },
+    "Utopce Averland": {
+      "mianownik": "stalowy zardzewialy klucz",
+      "dopelniacz": "stalowego zardzewialego klucza",
+      "biernik": "stalowy zardzewialy klucz"
+    },
+    "Wieza straznicza Gory Kranca Swiata": {
+      "mianownik": "trzyczesciowy grafitowy klucz",
+      "dopelniacz": "trzyczesciowego grafitowego klucza",
+      "biernik": "trzyczesciowy grafitowy klucz"
+    },
+    "Opalowe Gory Czarne": {
+      "mianownik": "wielobarwny orczy fetysz",
+      "dopelniacz": "wielobarwnego orczego fetyszu",
+      "biernik": "wielobarwny orczy fetysz"
+    },
+    "Kanaly pod Quenelles": {
+      "mianownik": "zardzewialy duzy klucz",
+      "dopelniacz": "zardzewialego duzego klucza",
+      "biernik": "zardzewialy duzy klucz"
+    },
+    "Wieza Zywiolakow Tretogor": {
+      "mianownik": "dlugi skomplikowany klucz",
+      "dopelniacz": "dlugiego skomplikowanego klucza",
+      "biernik": "dlugi skomplikowany klucz"
+    },
+    "Kurhan Lyria": {
+      "mianownik": "gruby ciezki klucz",
+      "dopelniacz": "grubego ciezkiego klucza",
+      "biernik": "gruby ciezki klucz"
+    },
+    "Fort Lyria": {
+      "mianownik": "jadeitowa pieczec",
+      "dopelniacz": "jadeitowej pieczeci",
+      "biernik": "jadeitowa pieczec"
+    },
+    "Jaskinia zbojow Baccala": {
+      "mianownik": "niewielka zamoczona karteczka",
+      "dopelniacz": "niewielkiej zamoczonej karteczki",
+      "biernik": "niewielka zamoczona karteczka"
+    },
+    "Ruiny Rinde": {
+      "mianownik": "pordzewialy archaiczny klucz",
+      "dopelniacz": "pordzewialego archaicznego klucza",
+      "biernik": "pordzewialy archaiczny klucz"
+    },
+    "Zatopiony wrak Baccala": {
+      "mianownik": "rozmiekczony zbutwialy pergamin",
+      "dopelniacz": "rozmiekczonego zbutwialego pergaminu",
+      "biernik": "rozmiekczony zbutwialy pergamin"
+    },
+    "Grobowiec Brokilon": {
+      "mianownik": "starozytny elfi pergamin",
+      "dopelniacz": "starozytnego elfiego pergaminu",
+      "biernik": "starozytny elfi pergamin"
+    },
+    "Lodowy smok Mahakam": {
+      "mianownik": "wielki kamienny klucz",
+      "dopelniacz": "wielkiego kamiennego klucza",
+      "biernik": "wielki kamienny klucz"
+    },
+    "Nadrzecze": {
+      "mianownik": "wielki stylizowany klucz",
+      "dopelniacz": "wielkiego stylizowanego klucza",
+      "biernik": "wielki stylizowany klucz"
+    },
+    "Pajak Gory Sine": {
+      "mianownik": "zelazny ciezki klucz",
+      "dopelniacz": "zelaznego ciezkiego klucza",
+      "biernik": "zelazny ciezki klucz"
+    },
+    "Kurhan Brokilon": {
+      "mianownik": "zloty klucz",
+      "dopelniacz": "zlotego klucza",
+      "biernik": "zloty klucz"
+    },
+    "Obsydianowa wieza": {
+      "mianownik": "czarny obsydianowy klucz",
+      "dopelniacz": "czarnego obsydianowego klucza",
+      "biernik": "czarny obsydianowy klucz"
+    },
+    "Ryboludzie": {
+      "mianownik": "fragment koralowej plaskorzezby z rybim ogonem",
+      "dopelniacz": "fragmentu koralowej plaskorzezby z rybim ogonem",
+      "biernik": "fragment koralowej plaskorzezby z rybim ogonem"
+    },
+    "Siedliszcze Mahakam": {
+      "mianownik": "krasnoludzka runiczna pieczec",
+      "dopelniacz": "krasnoludzkiej runicznej pieczeci",
+      "biernik": "krasnoludzka runiczna pieczec"
+    }
+}
+}
