@@ -1604,7 +1604,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "jadalna",
+        "effect": "--",
         "dont_bind": true
       }
     ],
