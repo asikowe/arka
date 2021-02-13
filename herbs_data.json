@@ -1751,8 +1751,7 @@
       },
       {
         "action": "powachaj",
-        "effect": "--",
-        "dont_bind": true
+        "effect": "-pan"
       }
     ],
     "mieta": [
