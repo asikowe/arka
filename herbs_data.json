@@ -1757,17 +1757,16 @@
     ],
     "mieta": [
       {
+        "action": "rozetrzyj",
+        "effect": "<LimeGreen>+kon<grey>"
+      },
+      {
         "action": "powachaj",
         "effect": "<olive_drab>-zmc<grey>"
       },
       {
         "action": "przezuj",
         "effect": "+glod",
-        "don_bind": true
-      },
-      {
-        "action": "rozetrzyj",
-        "effect": "--",
         "don_bind": true
       }
     ],
