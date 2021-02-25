@@ -1166,7 +1166,7 @@
     "aralia": [
       {
         "action": "zjedz",
-        "effect": "+odp <olive_drab>-zmc <grey>+kac"
+        "effect": "<olive_drab>-zmc <grey>+kac"
       },
       {
         "action": "przezuj",
