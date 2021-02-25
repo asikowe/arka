@@ -1428,13 +1428,12 @@
     ],
     "glog": [
       {
-        "action": "zjedz",
-        "effect": "<olive_drab>-zmc<grey>"
+        "action": "przezuj",
+        "effect": "<LimeGreen>+kon<grey>"
       },
       {
-        "action": "przezuj",
-        "effect": "--",
-        "dont_bind": true
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "grabiorog": [
