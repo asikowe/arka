@@ -1540,7 +1540,7 @@
     "kola": [
       {
         "action": "rozgryz",
-        "effect": "+glod +panika"
+        "effect": "-glod +panika"
       },
       {
         "action": "zjedz",
