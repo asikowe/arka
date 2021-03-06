@@ -1392,13 +1392,13 @@
     ],
     "deren": [
       {
+        "action": "przezuj",
+        "effect": "odtr(<PeachPuff>sko<grey>)"
+      },
+      {
         "action": "zjedz",
         "effect": "+prg",
         "dont_bind": true
-      },
-      {
-        "action": "przezuj",
-        "effect": "odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "drabik": [
