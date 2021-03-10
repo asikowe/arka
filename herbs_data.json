@@ -1633,7 +1633,7 @@
     "lawenda": [
       {
         "action": "zjedz",
-        "effect": "<LimeGreen>+kon<grey>"
+        "effect": "<LimeGreen>+kon<grey> +zmc"
       },
       {
         "action": "przyloz",
