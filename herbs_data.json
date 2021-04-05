@@ -2123,7 +2123,7 @@
     "szafran": [
       {
         "action": "zjedz",
-        "effect": "--",
+        "effect": "--(ususz na kon)",
         "dont_bind": true
       }
     ],
@@ -2176,7 +2176,7 @@
     "tojad": [
       {
         "action": "przezuj",
-        "effect": "<medium_orchid>-kac<grey> odtr"
+        "effect": "<medium_orchid>-kac<grey>"
       },
       {
         "action": "zjedz",
