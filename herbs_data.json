@@ -1175,6 +1175,10 @@
     ],
     "arnika": [
       {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey>"
+      },
+      {
         "action": "zjedz",
         "effect": "<olive_drab>-zmc<grey>"
       }
