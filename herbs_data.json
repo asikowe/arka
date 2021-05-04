@@ -1862,7 +1862,7 @@
     "ostrozen": [
       {
         "action": "zjedz",
-        "effect": "+odp"
+        "effect": "+odp -pan"
       }
     ],
     "perelkowiec": [
