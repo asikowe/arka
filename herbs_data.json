@@ -2242,7 +2242,7 @@
     "ususzona_macznica": [
       {
         "action": "rozgryz",
-        "effect": "+panika"
+        "effect": "+kon odtr(<thistle>ins<grey>) +panika"
       }
     ],
     "ususzona_mandragora": [
