@@ -2329,7 +2329,7 @@
     "ususzony_przelot": [
       {
         "action": "sproszkuj",
-        "effect": "odtr(<PeachPuff>sko<grey>)"
+        "effect": "<LimeGreen>+kon<grey> odtr(<PeachPuff>sko<grey>)"
       }
     ],
     "ususzony_ranog": [
