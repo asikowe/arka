@@ -1,1 +1,1 @@
-# fun
+# Zielnik Arkadii z działaniami odtrutek
